@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/diez"
+        android:title="10X10" />
+    <item
+        android:id="@+id/veint"
+        android:title="20X20" />
+    <item
+        android:id="@+id/trein"
+        android:title="30X30" />
+    <item
+        android:id="@+id/cuaren"
+        android:title="40X40" />
+    <item
+        android:id="@+id/cincuent"
+        android:title="50X50" />
+</menu>
